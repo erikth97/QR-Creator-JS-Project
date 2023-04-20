@@ -1,10 +1,10 @@
-Generador de Códigos QR
-Este repositorio contiene una aplicación web que permite a los usuarios generar códigos QR utilizando una API. Los usuarios pueden introducir cualquier texto o URL y la aplicación generará un código QR para ellos.
 
 ![image](https://user-images.githubusercontent.com/94486146/233431261-055c06eb-c13f-4964-a8ea-c473f09af210.png)
 ![image](https://user-images.githubusercontent.com/94486146/233431452-02de314e-ecfb-45bb-b899-1932358a3209.png)
 ![image](https://user-images.githubusercontent.com/94486146/233431535-46495145-d07a-4ad6-8689-c4156814519b.png)
 
+Generador de Códigos QR
+Este repositorio contiene una aplicación web que permite a los usuarios generar códigos QR utilizando una API. Los usuarios pueden introducir cualquier texto o URL y la aplicación generará un código QR para ellos.
 
 Características
 Genera códigos QR personalizados para cualquier texto o URL introducido por el usuario
@@ -33,3 +33,4 @@ Si encuentras algún problema con la aplicación, por favor informa en la secci�
 
 Contacto
 Si tienes alguna pregunta o comentario sobre la aplicación, no dudes en ponerte en contacto conmigo a través del correo electrónico o las redes sociales proporcionadas en mi perfil de GitHub.
+
