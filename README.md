@@ -1,7 +1,8 @@
+![image](https://user-images.githubusercontent.com/94486146/234027595-84fb7ba8-7cf8-41c3-8d0d-e7203bfa759a.png)
+![image](https://user-images.githubusercontent.com/94486146/234027738-12f727ee-a838-45da-8f87-cdbe942837a7.png)
+![image](https://user-images.githubusercontent.com/94486146/234027836-9c731f63-247e-424c-bfdf-52bd3005e3ba.png)
 
-![image](https://user-images.githubusercontent.com/94486146/233431261-055c06eb-c13f-4964-a8ea-c473f09af210.png)
-![image](https://user-images.githubusercontent.com/94486146/233431452-02de314e-ecfb-45bb-b899-1932358a3209.png)
-![image](https://user-images.githubusercontent.com/94486146/233431535-46495145-d07a-4ad6-8689-c4156814519b.png)
+
 
 # Generador de Códigos QR
 
